@@ -1,16 +1,13 @@
-### Hi there 👋
+# hi, my name is dashiell! 👋
 
-<!--
-**DashiellMR/dashiellmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 📚 i'm currently a third-year studying computer science and linguistics at mcgill university.
+### 🪗 my technical interests primarily lie within: 
+doing hackathons, learning new frameworks, and creating things that make me laugh!
+### 🧮 i'm currently interested in improving my:
+knowledge on databases, system design, and, like everyone should, fundamentals ;-)
+### 🏋️ besides programming i like to:
+bake, play the bass, go to the gym, and read (original, i know).
+## if you're interested getting in contact with me:
+here is my <a style="text-decoration: none;" href="mailto:dashiellrich@gmail.com">email</a>, my <a href="https://linkedin.com/in/dashiell-rich/">linkedin</a>, and, for good measure, my <a href="https://www.goodreads.com/user/show/169225587-dashiell-rich">goodreads</a>!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
