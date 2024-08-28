@@ -4,19 +4,19 @@
 ## 📚 i'm currently inbetween my third and fourth year studying cs at mcgill.
 
 ### 🪗 my technical interests primarily lie within: 
-↳ doing hackathons
+↳ type theory
 <br>
-↳ reading type theory textbooks
+↳ distributed systems
 <br>
-↳ creating things that make me laugh!
+↳ the intersection of linguistics and computer science
 <br>
 
 ### 🧮 i am currently:
-↳ working as a software intern at <a href="https://verkada.com">verkada</a>
+↳ grinding leetcode + job apps!
 <br>
-↳ reading <a href="https://hott.github.io/book/hott-online-15-ge428abf.pdf">homotopy type theory</a>
+↳ reading 'designing data-intensive applications'
 <br>
-↳ getting ready for my final year at mcgill :')
+↳ getting ready for my final year at mcgill!
 ### 🏋️ outside of cs i like to:
 ↳ bake (primarily cookies and anything with lemon)
 <br>
