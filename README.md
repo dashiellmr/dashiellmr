@@ -1,14 +1,14 @@
 # hi, my name is dashiell! 👋
 
 
-## 📚 i'm currently in my fourth year studying cs and linguistics at mcgill.
+## 📚 i'm currently in my fourth year studying cs at mcgill.
 
 ### 🪗 my technical interests primarily lie within: 
 ↳ cloud infrastructure
 <br>
 ↳ distributed systems
 <br>
-↳ the intersection of linguistics and computer science
+↳ reliability engineer
 <br>
 
 ## if you're interested getting in contact with me:
